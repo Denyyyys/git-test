@@ -1,7 +1,3 @@
-def only_ff_func():
- a = 1
- b = 2
- return 1
 
 print("first commit")
 
@@ -11,5 +7,7 @@ def mutual_func():
  ###
  pass
 
+def only_local_func():
+ return pass
 
-print("only local")
+print("NOT LOCAL")
