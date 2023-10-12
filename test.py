@@ -1,4 +1,5 @@
-
+def some_local_func():
+ pass
 print("first commit")
 
 def mutual_func():
